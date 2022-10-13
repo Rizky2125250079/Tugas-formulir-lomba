@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Pertemuan 6</string>
-    <string name="signup_text"><b>Don\'t Have an Account? <u><font color='#185E20'>Sign up</font></u></b></string>
-    <string name="Term_policy"><b><font color='#185E20'>By Sign-in You\'re agree</font></b> to our term of Policy</string>
-    <string name="privacy"><b><font color='#185E20'>and Our Privacy</font></b></string>
-</resources>
